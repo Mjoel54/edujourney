@@ -1,6 +1,6 @@
 # EduJourney
 
-BadgeTrack is a server-side application built with Node.js, SQL, and PostgreSQL that lays the foundation for a digital badge and certification tracking system in educational environments.
+EduJourney is a server-side application built with Node.js, SQL, and PostgreSQL that lays the foundation for a digital badge and certification tracking system in educational environments.
 
 This backend system allows:
 
